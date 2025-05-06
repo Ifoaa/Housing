@@ -1,0 +1,1 @@
+This .ipynb file contains an analysis of a dataset containing information on the longitude, latitude, population, total rooms, etcetra of houses in California. The dataset was analysed and the used to predict the average price of these houses using Logistic Regression and Random Tree Forest. 
